@@ -94,13 +94,13 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Problem%20Solver-a78bfa?style=for-the-badge&labelColor=0d0221)
+![Problem Solver](https://img.shields.io/badge/Problem%20Solver-a78bfa?style=for-the-badge&labelColor=0d0221)
 &nbsp;
-![](https://img.shields.io/badge/UI%2FUX%20Thinker-f472b6?style=for-the-badge&labelColor=0d0221)
+![UI/UX Thinker](https://img.shields.io/badge/UI%2FUX%20Thinker-f472b6?style=for-the-badge&labelColor=0d0221)
 &nbsp;
-![](https://img.shields.io/badge/Open%20Source%20Fan-38bdf8?style=for-the-badge&labelColor=0d0221)
+![Open Source Fan](https://img.shields.io/badge/Open%20Source%20Fan-38bdf8?style=for-the-badge&labelColor=0d0221)
 &nbsp;
-![](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
+![Always Learning](https://img.shields.io/badge/Always%20Learning-fb923c?style=for-the-badge&labelColor=0d0221)
 
 <br/>
 
@@ -220,9 +220,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake.svg" width="100%"/>
 </picture>
 
 </div>
