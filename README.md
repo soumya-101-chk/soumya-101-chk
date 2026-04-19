@@ -195,38 +195,3 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=soumya-101-chk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&count_private=true&include_all_commits=true" width="100%"/><br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-101-chk&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&include_all_commits=true&count_private=true&cache_seconds=0" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-101-chk&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    SNAKE GAME                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:1a0533&height=3"/>
-
-<br/>
-
-<div align="center">
-
-## Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/soumya-101-chk/soumya-101-chk/output/github-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:001233,40:0d1b4b,70:1a0533,100:0d0221&height=120&section=footer&animation=fadeIn"/>
