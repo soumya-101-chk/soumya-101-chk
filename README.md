@@ -195,8 +195,9 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-101-chk&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff" width="100%"/>
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=soumya-101-chk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=f472b6&text_color=ffffff&count_private=true&include_all_commits=true" width="100%"/><br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya-101-chk&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=ffffff&include_all_commits=true&count_private=true&cache_seconds=0" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya-101-chk&bg_color=0d0221&color=a78bfa&line=a78bfa&point=f472b6&area=true&hide_border=true" width="100%"/>
 
